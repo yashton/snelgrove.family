@@ -194,7 +194,7 @@ root = {
                 {
                     "name": "Ashton Snelgrove",
                     "link": "https://ashton.snelgrove.science",
-                    "img":  "./img/ashton.jpg",
+                    "img":  "./img/ashton.png",
                     "size": 40000
                 },
                 {
